@@ -1,0 +1,12 @@
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\service\BooksManager.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\BookConfiguration.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\intercomm\BookClient.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\Application.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\service\BooksManagerImple.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\exception\BookNotFoundException.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\model\BookRegistery.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\repo\BooksRepo.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\api\BookInventoryApi.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\model\Books.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\model\Register.java
+C:\Users\home\Documents\BookManagement\bookinventory-service\src\main\java\com\savio\myapp\bookinventoryservice\intercomm\FeignConfigure.java

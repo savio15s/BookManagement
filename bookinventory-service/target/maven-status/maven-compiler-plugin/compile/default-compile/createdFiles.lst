@@ -1,0 +1,14 @@
+com\savio\myapp\bookinventoryservice\intercomm\FeignConfigure.class
+com\savio\myapp\bookinventoryservice\service\BooksManager.class
+com\savio\myapp\bookinventoryservice\intercomm\BookClient$FeignClientFallbackFactory$1.class
+com\savio\myapp\bookinventoryservice\service\BooksManagerImple.class
+com\savio\myapp\bookinventoryservice\BookConfiguration.class
+com\savio\myapp\bookinventoryservice\intercomm\BookClient.class
+com\savio\myapp\bookinventoryservice\exception\BookNotFoundException.class
+com\savio\myapp\bookinventoryservice\api\BookInventoryApi.class
+com\savio\myapp\bookinventoryservice\model\Books.class
+com\savio\myapp\bookinventoryservice\model\BookRegistery.class
+com\savio\myapp\bookinventoryservice\repo\BooksRepo.class
+com\savio\myapp\bookinventoryservice\intercomm\BookClient$FeignClientFallbackFactory.class
+com\savio\myapp\bookinventoryservice\model\Register.class
+com\savio\myapp\bookinventoryservice\Application.class

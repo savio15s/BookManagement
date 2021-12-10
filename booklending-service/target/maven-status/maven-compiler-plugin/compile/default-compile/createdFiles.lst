@@ -1,0 +1,4 @@
+com\savio\myapp\booklendingservice\Application.class
+com\savio\myapp\booklendingservice\model\Register.class
+com\savio\myapp\booklendingservice\repo\RegisterRepo.class
+com\savio\myapp\booklendingservice\api\BookLendingApi.class
